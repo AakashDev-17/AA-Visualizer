@@ -1,7 +1,6 @@
 {
-  "name": "ees-visualizer",
+  "name": "aa-visualizer",
   "version": "0.1.0",
-  "homepage": "https://ericechemane.github.io/EEs-Visualization-Tool",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.3",
