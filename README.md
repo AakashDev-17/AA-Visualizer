@@ -1,6 +1,6 @@
 # AAs Visualizer
 
-Try this App right here: [AAs Visualizer](https://aa-visualizer.netlify.app/)
+Try this App right here: [AAs Visualizer](https://aa-visualizer-1712.netlify.app/)
 
 ## Covered Path Finding Algorithms
 
