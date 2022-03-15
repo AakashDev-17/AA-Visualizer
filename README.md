@@ -1,4 +1,4 @@
-# EEs Visualizer
+# AAs Visualizer
 
 Try this App right here: [AAs Visualizer](https://aa-visualizer.netlify.app/)
 
