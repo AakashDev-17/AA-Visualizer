@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/EEs-Visualization-Tool/static/css/main.c705a659.chunk.css",
+    "main.js": "/EEs-Visualization-Tool/static/js/main.663f5402.chunk.js",
+    "main.js.map": "/EEs-Visualization-Tool/static/js/main.663f5402.chunk.js.map",
+    "runtime-main.js": "/EEs-Visualization-Tool/static/js/runtime-main.31422d82.js",
+    "runtime-main.js.map": "/EEs-Visualization-Tool/static/js/runtime-main.31422d82.js.map",
+    "static/js/2.983a2e77.chunk.js": "/EEs-Visualization-Tool/static/js/2.983a2e77.chunk.js",
+    "static/js/2.983a2e77.chunk.js.map": "/EEs-Visualization-Tool/static/js/2.983a2e77.chunk.js.map",
+    "static/js/3.93f47c9f.chunk.js": "/EEs-Visualization-Tool/static/js/3.93f47c9f.chunk.js",
+    "static/js/3.93f47c9f.chunk.js.map": "/EEs-Visualization-Tool/static/js/3.93f47c9f.chunk.js.map",
+    "index.html": "/EEs-Visualization-Tool/index.html",
+    "static/css/main.c705a659.chunk.css.map": "/EEs-Visualization-Tool/static/css/main.c705a659.chunk.css.map",
+    "static/js/2.983a2e77.chunk.js.LICENSE.txt": "/EEs-Visualization-Tool/static/js/2.983a2e77.chunk.js.LICENSE.txt",
+    "static/media/main.css": "/EEs-Visualization-Tool/static/media/weight.bb6aaecd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31422d82.js",
+    "static/js/2.983a2e77.chunk.js",
+    "static/css/main.c705a659.chunk.css",
+    "static/js/main.663f5402.chunk.js"
+  ]
+}
